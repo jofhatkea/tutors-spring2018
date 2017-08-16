@@ -20,6 +20,9 @@ You do remember JSON, right?
 ## git
 We're using a plugin for brackets called `Brackets Git`
 
+## WP REST API
+This one is a bit bigger, and I'm not sure where it'll land. But we have quite a few weeks to figure this out, so google a bit, and then, let's tackle it as we approach it :-)
+
 # JavaScript
 ## fetch
 AJAX done right. Take a look at the final example, then google it.
