@@ -13,10 +13,14 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 ## CSS grid
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
-# JavaScript
-##JSON
+# Other stuff
+## JSON
 You do remember JSON, right?
 
+## git
+We're using a plugin for brackets called `Brackets Git`
+
+# JavaScript
 ## fetch
 AJAX done right. Take a look at the final example, then google it.
 
