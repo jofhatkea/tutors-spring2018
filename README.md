@@ -1,4 +1,4 @@
-# tutors-e2017
+# tutors-Spring 2018
 ## New stuff that you might not know (yet)
 
 # HTML
@@ -18,10 +18,12 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 You do remember JSON, right?
 
 ## git
-We're using a plugin for brackets called `Brackets Git`
+We're using a plugin for brackets called `Brackets Git`, but the goal is to switch to the terminal (my goal)
 
 ## WP REST API
-This one is a bit bigger, and I'm not sure where it'll land. But we have quite a few weeks to figure this out, so google a bit, and then, let's tackle it as we approach it :-)
+WordPress theming is gone, now we're using the WP REST API to fetch data.
+
+It's a big, and somewhat complex topic, you can take a look at [https://kea-alt-del.dk/courses/t7/2-wp-rest-api.php](these slides) to get up and running. We could also hold a "tutors-only-masterclass"?
 
 # JavaScript
 ## fetch
