@@ -23,7 +23,7 @@ We're using a plugin for brackets called `Brackets Git`, but the goal is to swit
 ## WP REST API
 WordPress theming is gone, now we're using the WP REST API to fetch data.
 
-It's a big, and somewhat complex topic, you can take a look at [https://kea-alt-del.dk/courses/t7/2-wp-rest-api.php](these slides) to get up and running. We could also hold a "tutors-only-masterclass"?
+It's a big, and somewhat complex topic, you can take a look at https://kea-alt-del.dk/courses/t7/2-wp-rest-api.php to get up and running. We could also hold a "tutors-only-masterclass"?
 
 # JavaScript
 ## fetch
